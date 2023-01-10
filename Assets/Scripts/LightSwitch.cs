@@ -13,6 +13,7 @@ public class LightSwitch : MonoBehaviour
         mylight1 = GameObject.FindGameObjectWithTag("light");
         mylight2 = GameObject.FindGameObjectWithTag("light");
         sWitch = GameObject.FindGameObjectWithTag("sWitch");
+        sWitch.SetActive(false);
     }
 
     // Update is called once per frame
