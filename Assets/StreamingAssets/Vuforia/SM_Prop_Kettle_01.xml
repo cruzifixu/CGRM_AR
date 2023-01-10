@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="SM_Prop_Kettle_01" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="SM_Prop_Kettle_01s_assembly" assemblyId="674bc1913267472bb0f2303bc009540e">
+<Part name="SM_Prop_Kettle_01" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0828511 0.160498 1.03443" rotation="AD: 0.997337 0.160448 -0.537463 209.17" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.000734124 0.0431694 1.10857" rotation="AD: 1 -0.00211684 0.00394401 236.446" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0654118 0.205323 0.987392" rotation="AD: 0.695285 -0.84433 1.8476 196.836" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
